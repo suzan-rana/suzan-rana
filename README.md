@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suzan Rana</h1>
 <h3 align="center">A passionate Frontend developer from Nepal</h3>
 
-- 🔭 I’m currently working on [a Project called 'GiftShop'](https://github.com/suzan-rana/gift-shop)
+- 🔭 I’m currently working as a React Intern at lancemeup.com
 
-- 🌱 I’m currently learning **MERN stack and NEXTjs**
+- 🌱 I’m currently learning **Next JS**
 
 - 👯 I’m looking to collaborate on **ReactJS**
 
