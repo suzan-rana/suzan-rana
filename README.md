@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzan-rana&label=Profile%20views&color=0e75b6&style=flat" alt="suzan-rana" /> </p>
 
-- 🌱 I’m currently learning **NestJS, NodeJS, Graphql**
+- 🌱 I’m currently learning **NestJS, NodeJS, TypeScript Graphql**
 
 - 👯 I’m looking to collaborate on **NodeJS and NestJS related projects**
 
