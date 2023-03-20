@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **NodeJS and NestJS related projects**
 
-- 👨‍💻 Here is my portfolio site: [suzanrana.com.np](suzanrana.com.np)
+- 👨‍💻 Here is my portfolio site: [suzanrana.com.np](https://suzanrana.com.np)
 
 - 📫 How to reach me **dev.suzanrana@gmail.com**
 
