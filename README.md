@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suzan Rana</h1>
-<h3 align="center">A passionate backend developer from Nepal</h3>
+<h3 align="center">A passionate React developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzan-rana&label=Profile%20views&color=0e75b6&style=flat" alt="suzan-rana" /> </p>
 
-- 🌱 I’m currently learning **NestJS, NodeJS, TypeScript**
+- 🌱 I’m currently learning **NextJS, NodeJS, TailwindCSS, Prisma,  NestJS, TypeScript**
 
-- 👯 I’m looking to collaborate on **NodeJS and NestJS related projects**
+- 👯 I’m looking to collaborate on **NextJS, NodeJS, TailwindCSS, Prisma,  NestJS, TypeScript**
 
-- 👨‍💻 Here is my portfolio site: [suzanrana.com.np](https://suzanrana.com.np)
+- 👨‍💻 Here is my portfolio site: [Loading...]
 
 - 📫 How to reach me **dev.suzanrana@gmail.com**
 
