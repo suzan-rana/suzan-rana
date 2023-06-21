@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **NextJS, NodeJS, TailwindCSS, Prisma,  NestJS, TypeScript**
 
-- 👨‍💻 Here is my portfolio site: [<a href="https://suzanrana.com.np/" target="_blank" rel="noreferrer">suzanrana.com.np</a>]
+- 👨‍💻 Here is my portfolio site: <a href="https://suzanrana.com.np/" target="_blank" rel="noreferrer">suzanrana.com.np</a>
 
 - 📫 How to reach me **dev.suzanrana@gmail.com**
 
