@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzan-rana&label=Profile%20views&color=0e75b6&style=flat" alt="suzan-rana" /> </p>
 
-- 🌱 I’m currently learning **NextJS, NodeJS, TailwindCSS, Prisma,  NestJS, TypeScript**
+- 🌱 I’m currently learning **TypeScript, Graphql**
 
-- 👯 I’m looking to collaborate on **NextJS, NodeJS, TailwindCSS, Prisma,  NestJS, TypeScript**
+- 👯 I’m looking to collaborate on **NextJS, NestJS** 
 
 - 👨‍💻 Here is my portfolio site: <a href="https://suzanrana.com.np/" target="_blank" rel="noreferrer">suzanrana.com.np</a>
 
