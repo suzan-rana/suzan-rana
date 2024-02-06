@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzan-rana&label=Profile%20views&color=0e75b6&style=flat" alt="suzan-rana" /> </p>
 
-- 🌱 I’m currently reading **Solo Levelling**
+- 🌱 I’m currently reading **Solo Leveling**
 
 - 👯 I’m looking to collaborate on reading more **Manhwas, and Mangas** 
 
