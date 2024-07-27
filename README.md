@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suzan Rana</h1>
-<h3 align="center">A passionate manga reader from Nepal</h3>
+<h3 align="center">Software Developer Based in Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzan-rana&label=Profile%20views&color=0e75b6&style=flat" alt="suzan-rana" /> </p>
 
-- 🌱 I’m currently reading **Solo Leveling**
+- 🌱 I’m currently reading **RabbitMQ and System Design.**
 
-- 👯 I’m looking to collaborate on reading more **Manhwas, and Mangas** 
+- 👯 I’m looking to collaborate on reading more **rabbitmq and microservice related things.** 
 
 - 👨‍💻 Here is my portfolio site: <a href="https://suzanrana.com.np/" target="_blank" rel="noreferrer">suzanrana.com.np</a>
 
