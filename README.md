@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suzan Rana</h1>
+<h1 align="center">Hello there, My name is Suzan Rana.</h1>
 <h3 align="center">Software Developer Based in Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzan-rana&label=Profile%20views&color=0e75b6&style=flat" alt="suzan-rana" /> </p>
