@@ -4,7 +4,7 @@
 📍 Butwal, Rupandehi, Nepal  
 📞 +977 9848497112  
 ✉️ suzan.rnaa@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/suzan-rana) | [GitHub](https://github.com/suzan-rana)
+🔗 [LinkedIn](https://www.linkedin.com/in/suzan-rana)
 
 ---
 
