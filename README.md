@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 Profile Summary
-Results-driven Full-Stack Developer with 5 years of experience in building and scaling SaaS and AI-powered applications across **Python, Django, LangGraph, LangChain, React, Node.js**, and **AWS** ecosystems. Skilled in designing cloud-native architectures, mentoring developers, and delivering automation-driven products. Recognized for reliability, clean architecture, and fast, quality-focused deliveries.
+Results-driven Full-Stack Developer with 4 years of experience in building and scaling SaaS and AI-powered applications across **Python, Django, LangGraph, LangChain, React, Node.js**, and **AWS** ecosystems. Skilled in designing cloud-native architectures, mentoring developers, and delivering automation-driven products. Recognized for reliability, clean architecture, and fast, quality-focused deliveries.
 
 ---
 
