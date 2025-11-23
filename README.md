@@ -30,7 +30,7 @@ Results-driven Full-Stack Developer with 4 years of experience in building and s
 - **Docker**, **Kubernetes**, CI/CD (GitHub Actions)
 
 #### AI & Automation:
-- RAG Apps, **Chatbot Development**, **LLM Integrations**, ML Tooling, **Automation Workflows**
+- LangChain, LangGraph, Knowledge Graphs, RAG Apps, **Chatbot Development**, **LLM Integrations**, ML Tooling, **Automation Workflows**
 
 #### Methodologies & Tools:
 - **Agile Scrum**, **TDD**, **Code Review**, **System Design**, **Git**, **Open Source Collaboration**
